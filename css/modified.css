@@ -1,5 +1,5 @@
-.min-height-230px {
-    min-height: 230px !important;
+.tech-tile {
+    min-height: 280px !important;
 }
 
 .font-jost {
@@ -696,7 +696,7 @@ transition: all .5s;
 
 .navbar-brand span small {
     display: block;
-    font-size: 11.8px;
+    font-size: 14px;
     text-transform: none;
     letter-spacing: 0.8px;
     margin-left: 3px;
